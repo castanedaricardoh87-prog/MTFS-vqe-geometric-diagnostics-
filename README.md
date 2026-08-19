@@ -8,6 +8,7 @@ This repository implements and validates geometric convergence diagnostics origi
 
 Standard VQE optimizers stop (or declare success) when the energy stops changing:
 # MTFS Geometric Diagnostics for Variational Quantum Eigensolvers
+
 |Eₜ − Eₜ₋₁| < ε
 
-
+But that is not the same as the parameters having settled:
