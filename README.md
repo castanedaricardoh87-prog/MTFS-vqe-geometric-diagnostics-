@@ -40,7 +40,7 @@ In these 7 cases the energy had essentially stopped changing, yet the optimizer 
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mtfs-vqe-geometric-diagnostics.git
+git clone https://github.com/castanedaricardoh87-prog/MTFS-vqe-geometric-diagnostics-.git
 cd mtfs-vqe-geometric-diagnostics
 pip install -r requirements.txt
 
