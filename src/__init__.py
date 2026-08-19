@@ -1,1 +1,0 @@
-# MTFS-VQE Geometric Diagnostics
