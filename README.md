@@ -37,6 +37,14 @@ In these 7 cases the energy had essentially stopped changing, yet the optimizer 
 - The same signature appears across different optimizers.
 - This is a direct transfer of an MTFS-derived principle into quantum variational optimization.
 
+## Related Numerical Test
+
+A separate Stage-2 discrete-lattice experiment (zircon proxy parameters) was used to exercise the broader expand–evolve–freeze numerical pipeline on a 256-dimensional system.  
+
+Results and scope limitations are documented in [`docs/zircon_proxy_lattice_test.md`](docs/zircon_proxy_lattice_test.md).  
+
+This test is independent of the VQE geometric diagnostics reported above.
+
 ## Quick Start
 
 ```bash
